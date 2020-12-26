@@ -1,0 +1,46 @@
+.container {
+    max-width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    border: blue 2px solid;
+    border-radius: 2%;
+}
+
+p {
+    padding: 50px;
+    margin: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    text-transform: uppercase;
+    transform: skewY(-3deg);
+}
+
+.blue {
+    background-color: blueviolet;
+    padding-top: 0px;
+}
+
+.white {
+    background-color: whitesmoke;
+    padding-top: 0px;
+}
+
+.pink {
+    background-color: pink;
+    padding-top: 0px;
+}
+
+.skyblue {
+    background-color: skyblue;
+    padding-top: 0px;
+}
+
+.yellow {
+    background-color: yellow;
+    padding-top: 0px;
+}
+
+.lightblue {
+    background-color: lightblue;
+    padding-top: 0px;
+}
